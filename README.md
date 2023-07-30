@@ -1,7 +1,10 @@
 ### 
 👋 Olá, eu sou o Marcelo Moura
+
 👀 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
+
 🌱 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca.
+
 📫 Como me contatar: mgmoura@gmail.com
 
 
