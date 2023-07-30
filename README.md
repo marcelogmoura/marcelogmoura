@@ -5,6 +5,8 @@
 
 🌱 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca.
 
+💞️ No momento estou procurando uma oportunidade de trabalho como Dev Júnior.
+
 📫 Como me contatar: mgmoura@gmail.com
 
 
