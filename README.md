@@ -23,25 +23,24 @@ https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap
 
 https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
-📱 Contact
+## 📱 Contact
 
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-# 🔔 Tests
 
-👩‍💻 IDE
+## 👩‍💻 IDE
 
 https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
 
 https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 
-🎶 Sound
+## 🎶 Sound
 
 https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white
 
 https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 
-🎮 Games
+## 🎮 Games
 
 https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF
 
