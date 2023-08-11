@@ -1,47 +1,57 @@
+
+# Título do Projeto
+
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
+
+
 ### 🧔 Olá, eu sou o Marcelo Moura
 
-👀 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
+📚 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
 
-🌱 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca.
+👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca.
 
-💞️ No momento estou procurando uma oportunidade de trabalho como Dev Júnior.
+👀 No momento estou procurando uma oportunidade de trabalho como Dev Júnior.
 
 📫 Como me contatar: mgmoura@gmail.com
 
-## 💻 Tech Stack:
+## 💻 Habilidades:
 
-![e](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+## 📱 Contato:
 
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-
-https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-
-## 📱 Contact
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgmoura@gmail.com)
 
 
-## 👩‍💻 IDE
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mgmoura)
 
-https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
 
-https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 
-## 🎶 Sound
 
-https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white
+## 👩‍💻 IDE's que utilizo:
 
-https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🎮 Games
+## 🎶 Música:
 
-https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF
+[![](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.page.link/Ubphg8iNBdCoCx598)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3LumiTy1TDliAoUulqTZBG?si=d292beebd4aa486c)
+
+## 🎮 Games:
+
+[![](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)](DEHUMANIZER#1109)
+
+
+
+
+![Marcelo Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko)
 
 <!--
 **marcelogmoura/marcelogmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
