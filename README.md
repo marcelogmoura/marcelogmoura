@@ -1,10 +1,4 @@
 
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-
-
 ### 🧔 Olá, eu sou o Marcelo Moura
 
 📚 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
