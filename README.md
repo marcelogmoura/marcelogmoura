@@ -1,5 +1,5 @@
 ### 
-👋 Olá, eu sou o Marcelo Moura
+🧔 Olá, eu sou o Marcelo Moura
 
 👀 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
 
@@ -9,6 +9,8 @@
 
 📫 Como me contatar: mgmoura@gmail.com
 
+[![teste](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+)]
 
 <!--
 **marcelogmoura/marcelogmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
