@@ -7,7 +7,7 @@
 
 👀 No momento estou procurando uma oportunidade de trabalho como Dev Júnior.
 
-📫 Como me contatar: mgmoura@gmail.com
+📫 Como entrar em contato: mgmoura@gmail.com
 
 ## 💻 Habilidades:
 
