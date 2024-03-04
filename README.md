@@ -5,7 +5,7 @@
 
 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca.
 
-👀 No momento estou procurando uma oportunidade de trabalho como Dev Júnior.
+👀 No momento estou procurando uma oportunidade de trabalho como Dev FullStack.
 
 📫 Como entrar em contato: mgmoura@gmail.com
 
