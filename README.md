@@ -3,7 +3,7 @@
 
 📚 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
 
-👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca.
+👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca e atualmente cursando pós graduação em Arquitetura de Software.
 
 👀 No momento estou procurando uma oportunidade de trabalho como Dev FullStack.
 
