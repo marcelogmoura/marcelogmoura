@@ -11,7 +11,7 @@
 
 ## 💻 Habilidades:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,html,angular,bootstrap,mysql,mongodb" />
   </a>
