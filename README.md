@@ -11,6 +11,7 @@
 
 ## 💻 Habilidades:
 ![](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
