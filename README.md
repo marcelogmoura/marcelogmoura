@@ -5,11 +5,12 @@
 
 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca e atualmente cursando pós graduação em Arquitetura de Software.
 
-👀 No momento estou procurando uma oportunidade de trabalho como Dev FullStack.
+👀 No momento estou procurando uma oportunidade de trabalho como Dev FullStack, ou backend Java.
 
 📫 Como entrar em contato: mgmoura@gmail.com
 
 ## 💻 Habilidades:
+![](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
