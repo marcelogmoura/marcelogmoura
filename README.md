@@ -13,9 +13,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, spring, html, angular, bootstrap, mysql, mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,angular,bootstrap,mysql,mongodb" />
   </a>
 </p>
+
+
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
