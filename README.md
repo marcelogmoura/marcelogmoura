@@ -1,11 +1,11 @@
 
 ### 🧔 Olá, eu sou o Marcelo Moura
 
-📚 Estou interessado em programação utilizando Java, Spring Boot e MVC, Angular.
+📚 Estou interessado em programação utilizando C#, Java, Spring Boot e MVC, Angular.
 
 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca e atualmente cursando pós graduação em Arquitetura de Software.
 
-👀 No momento sou desenvolvedor Java e C# procurando uma oportunidade de trabalho como Dev FullStack, backend Java.
+👀 No momento estou atuando desenvolvedor FullStack C#.
 
 📫 Como entrar em contato: mgmoura@gmail.com
 
