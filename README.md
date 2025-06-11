@@ -3,7 +3,7 @@
 
 📚 Estou interessado em programação utilizando C#, Java, Spring Boot e MVC, Angular.
 
-👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca e atualmente cursando pós graduação em Arquitetura de Software.
+👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca e pós graduado em Arquitetura de Software pela Faculdade Iguaçu.
 
 👀 No momento estou atuando desenvolvedor FullStack C#.
 
@@ -18,7 +18,7 @@
 </p>
 
 
-
+![](https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
