@@ -1,7 +1,7 @@
 ### 🧔 Olá, eu sou o Marcelo Moura
 
 📚 **Minha jornada na tecnologia:**
-Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software. Atualmente, atuo como desenvolvedor FullStack C# e tenho grande interesse em aprimorar meus conhecimentos em **.NET**, **Angular** e **SQL**.
+Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software. Atualmente, atuo como desenvolvedor FullStack C# e tenho grande interesse em aprimorar meus conhecimentos em .NET, Angular e SQL.
 
 👀 Estou em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
@@ -46,8 +46,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 
 ## 🎶 O que estou ouvindo:
 
-[![](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.page.link/Ubphg8iNBdCoCx598)
-[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](URL_CORRETA_DO_SPOTIFY)
+[![](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://link.deezer.com/s/30KYl1TN5oE1zZagcLy9w)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/SEU_LINK_AQUI)
 
 ---
 
