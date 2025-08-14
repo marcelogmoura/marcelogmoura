@@ -2,8 +2,7 @@
 
 📚 **Minha jornada na tecnologia:**
 Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software. Atualmente, atuo como desenvolvedor FullStack C# e tenho grande interesse em aprimorar meus conhecimentos em .NET, Angular e SQL.
-
-👀 Estou em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
+Sou apaixonado por construir soluções robustas e escaláveis, e estou sempre em busca de novos desafios para aprimorar minhas habilidades e colaborar em projetos inovadores.
 
 📫 **Entre em contato:** mgmoura@gmail.com
 
@@ -33,15 +32,13 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ## 📱 Conecte-se comigo:
 
 <a href="mailto:mgmoura@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 <a href="https://instagram.com/mgmoura" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
 <a href="https://www.linkedin.com/in/marcelogmoura/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
@@ -63,7 +60,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ## 🎶 O que estou ouvindo:
 
 <a href="https://link.deezer.com/s/30KYl1TN5oE1zZagcLy9w" target="_blank">
-  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="Deezer" />
+  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="Deezer" />
 </a>
 
 ---
@@ -71,9 +68,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ## 🎮 Gamertag:
 
 <a href="DEHUMANIZER#1109" target="_blank">
-  <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Battle.net" />
+  <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Battle.net" />
 </a>
 
 ---
 
-![Marcelo Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko)
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogmoura&layout=compact&theme=merko" alt="Top Languages" />
+</p>
