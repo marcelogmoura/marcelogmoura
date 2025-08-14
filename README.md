@@ -69,4 +69,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 
 ---
 
-![Marcelo Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko)
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogmoura&layout=compact&theme=merko" alt="Top Languages" />
+</p>
