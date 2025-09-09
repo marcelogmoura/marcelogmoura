@@ -9,6 +9,12 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 
 ---
 
+## 💻 Projetos Pessoais:
+
+<a href="https://www.allriders.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/All%20Riders-000?style=for-the-badge&logo=website&logoColor=white" alt="All Riders" />
+</a>
+
 ## 💻 Habilidades:
 
 ### Linguagens e Frameworks
