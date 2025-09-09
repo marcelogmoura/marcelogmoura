@@ -8,12 +8,13 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 📫 **Entre em contato:** mgmoura@gmail.com
 
 ---
-
 ## 💻 Projetos Pessoais:
 
 <a href="https://www.allriders.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/All%20Riders-000?style=for-the-badge&logo=globe&logoColor=white" alt="All Riders.com.br" />
+  <img src="https://img.shields.io/badge/All%20Riders-000?style=for-the-badge&logo=globe&logoColor=white" alt="All Riders" />
 </a>
+
+---
 
 ## 💻 Habilidades:
 
@@ -23,6 +24,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
 ### Frontend
@@ -36,18 +38,22 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+### Containerização
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
 
 ## 📱 Conecte-se comigo:
 
 <a href="mailto:mgmoura@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://instagram.com/mgmoura" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/marcelogmoura/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
@@ -66,7 +72,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ## 🎶 O que estou ouvindo:
 
 <a href="https://link.deezer.com/s/30KYl1TN5oE1zZagcLy9w" target="_blank">
-  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="Deezer" />
+  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="Deezer" />
 </a>
 
 ---
@@ -74,7 +80,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ## 🎮 Gamertag:
 
 <a href="DEHUMANIZER#1109" target="_blank">
-  <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Battle.net" />
+  <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Battle.net" />
 </a>
 
 ---
@@ -82,6 +88,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogmoura&layout=compact&theme=merko" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelogmoura&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogmoura&layout=compact&theme=merko" alt="Top Languages" />
 </p>
