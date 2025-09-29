@@ -5,7 +5,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquite
 
 👀 Estou em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
-📫 **Entre em contato:** mgmoura@gmail.com
+📫 **Entre em contato:** mgmoura@gmail.com ou admin@allriders.com.br
 
 ---
 ## 💻 Projetos Pessoais:
