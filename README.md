@@ -7,12 +7,11 @@
 ---
 
 ### Contato
-📫 **E-mail:** [mgmoura@gmail.com](mailto:mgmoura@gmail.com)
-📫 **E-mail:** [admin@allriders.com.br](mailto:admin@allriders.com.br)
+📫 **E-mails:** [mgmoura@gmail.com](mailto:mgmoura@gmail.com) | [admin@allriders.com.br](mailto:admin@allriders.com.br)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto Pessoal
 
 ### **All Riders** - [www.allriders.com.br](#)
 > Repositório de peças compatíveis para diversos fabricantes de motocicleta.
@@ -28,7 +27,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -62,13 +60,13 @@
 
 ## 🔗 Conecte-se Comigo
 
-<a href="https://www.linkedin.com/in/marcelogmoura/">
+<a href="https://www.linkedin.com/in/marcelogmoura/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:mgmoura@gmail.com">
+<a href="mailto:mgmoura@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://instagram.com/mgmoura">
+<a href="https://instagram.com/mgmoura" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
@@ -76,13 +74,11 @@
 
 ## 🎧 O que estou ouvindo (Playlist)
 
-<a href="https://link.deezer.com/s/30KYl1TN5oE1zZagcLy9w">
+<a href="https://link.deezer.com/s/30KYl1TN5oE1zZagcLy9w" target="_blank">
   <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="Deezer" />
 </a>
-<a href="#">   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
-<a href="https://music.youtube.com">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
+<a href="#" target="_blank">
+   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </a>
 
 ---
