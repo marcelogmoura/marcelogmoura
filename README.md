@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marcelo Moura 🧔
 
-**Desenvolvedor FullStack C#** com pós-graduação em **Arquitetura de Software**. Focado em **.NET**, **Angular** e **SQL**.
+**Desenvolvedor FullStack C#** formado em **Análise e Desenvolvimento de Sistemas** com pós-graduação em **Arquitetura de Software**. Focado em **.NET**, **Angular** e **SQL**.
 
 🚀 Buscando novos desafios e oportunidades para colaborar em projetos inovadores.
 
