@@ -1,36 +1,36 @@
 ### 🧔 Olá, eu sou o Marcelo Moura
 
 📚 **Minha jornada na tecnologia:**
-Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software. Atualmente, atuo como desenvolvedor FullStack C# e tenho grande interesse em aprimorar meus conhecimentos em .NET, Angular e SQL.
+Sou formado em **Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software**. Atualmente, atuo como desenvolvedor FullStack C# e tenho grande interesse em aprimorar meus conhecimentos em .NET, Angular e SQL.
 
 👀 Estou em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
 📫 **Entre em contato:** mgmoura@gmail.com ou admin@allriders.com.br
 
 ---
-## 💻 Projetos Pessoais:
+## 💻 Projetos Pessoais
 
-<a href="https://www.allriders.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/All%20Riders-000?style=for-the-badge&logo=globe&logoColor=white" alt="All Riders" />
-</a>
+| Projeto | Tecnologias | Descrição |  
+|---------|-----------|-------------|  
+| [www.allriders.com.br](#) | .NET, SQL, Angular, API | Repositório de peças compatíveis para diversos fabricantes |  
+
+
 
 ---
 
-## 💻 Habilidades:
+## 💻 Skills:
 
-### Linguagens e Frameworks
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+**Linguagens & Frameworks:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-### Frontend
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
 ### Bancos de Dados
