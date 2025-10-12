@@ -74,14 +74,14 @@
 
 ## 🎧 O que estou ouvindo (Playlist)
 
+![Heavy Metal](https://img.shields.io/badge/Heavy_Metal-000000?style=for-the-badge&logo=electricguitar&logoColor=red)
+
 <a href="https://link.deezer.com/s/30KYl1TN5oE1zZagcLy9w" target="_blank">
   <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="Deezer" />
 </a>
 <a href="#" target="_blank">
    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </a>
-
----
 
 ## 🎮 Gamertag
 
